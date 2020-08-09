@@ -3,9 +3,10 @@
     <section class="about">
       <h2 class="section-title">Takuya Saito</h2>
       <ArticleBody>
-        <img src="~/assets/images/portrait.jpg" alt="Takuya Saito" />
         <p>
           システムエンジニア。
+        </p>
+        <p>
           <a href="https://twitter.com/tktk7l9" target="_blank">Twitter</a>
           <a href="https://github.com/tktk7l9" target="_blank">GitHub</a>
           <a
@@ -18,28 +19,56 @@
     </section>
 
     <section class="works">
-      <h2 class="section-title">経歴</h2>
+      <h2 class="section-title">My Skills</h2>
       <ArticleBody>
-        <p>学生時代</p>
         <ul>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>JavaScript</li>
+          <li>Python3</li>
+          <li>Go</li>
+          <li>Java</li>
+          <li>Dart</li>
           <li>
-            2012/04
-            <a
-              href="https://www.rikkyo.ac.jp/undergraduate/cp/department_02.html"
-              target="_blank"
-              >立教大学 現代心理学部 映像身体学科</a
-            >
-            に入学
+            GCP
+            <p>
+              BigQuery, Cloud Strage, App Engine, Cloud Engine, Cloud Functions,
+              IAM
+            </p>
           </li>
+          <li>
+            TOEIC
+            <p>745点</p>
+          </li>
+          <li>
+            Other
+            <p>
+              Scss, Vue.js, Nuxt.js, GAS, Flutter, Linux, iOS, Android,
+              Firebase, Contentful, Netlify
+            </p>
+          </li>
+        </ul>
+      </ArticleBody>
+    </section>
+
+    <section class="works">
+      <h2 class="section-title">My Hisotry</h2>
+      <ArticleBody>
+        <ul>
           <li>
             2017/10
             <a href="topgate.co.jp" target="_blank">株式会社トラストリッジ</a>
             に動画編集者としてインターン
           </li>
-        </ul>
-        <br />
-        <p>職歴</p>
-        <ul>
+          <li>
+            2018/03
+            <a
+              href="https://www.rikkyo.ac.jp/undergraduate/cp/department_02.html"
+              target="_blank"
+              >立教大学 現代心理学部 映像身体学科</a
+            >
+            卒業
+          </li>
           <li>
             2018/04
             <a
