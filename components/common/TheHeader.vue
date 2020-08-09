@@ -7,8 +7,6 @@
 </template>
 
 <style scoped lang="scss">
-@import "~assets/scss/variables";
-
 .header {
   background-color: $color-gray;
 }

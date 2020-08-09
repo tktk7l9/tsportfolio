@@ -21,6 +21,9 @@ export default {
   plugins: [],
   components: true,
   buildModules: [],
-  modules: [],
+  modules: ["@nuxtjs/style-resources"],
+  styleResources: {
+    scss: ["~/assets/scss/_variables.scss"],
+  },
   build: {},
 };
