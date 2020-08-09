@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer">©Takuya Saito</footer>
+  <footer class="footer">Copyright © 2020 by Takuya Saito</footer>
 </template>
 
 <style scoped lang="scss">
